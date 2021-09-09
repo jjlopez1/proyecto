@@ -12,3 +12,26 @@
 	bottom: 70%;
 	left: 84%;
 }
+ul, ol {
+	list-style:none;
+}
+			
+.nav li {
+	float:left;
+}
+			
+.nav li a {
+	background-color:gray;
+	color:#fff;
+	text-decoration:none;
+	padding:10px 10px;
+	border: 3px solid black;
+}
+
+.div{
+	position: absolute;
+	top: 20%;
+	left: 40%;
+
+
+}
